@@ -1,0 +1,2 @@
+# Aplicar el uso de repositorios remotos mediante trabajo colaborativo en equipos, utilizando la
+# plataforma GitHub para gestionar cambios, compartir informacion y resolver conflictos basicos.
