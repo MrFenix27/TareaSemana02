@@ -2,4 +2,3 @@
 ## Curso: Herramientas de Desarrollo
 ## Descripcion: [Realizaremos la actividad en clase sobre uso de commits y resolucion de conflictos]
 
-# Sistema de pruebas: Joshelyn Ruiz
